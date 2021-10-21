@@ -1656,7 +1656,7 @@ MonoBehaviour:
       - title: Dialogue Text
         value: 'How to react to your environment, other people, situations, anything
           really. These reactions not only form you as a person, but the perception
-          of you others carry with them.
+          of you, carried by others.
 
 '
         type: 0
@@ -1698,7 +1698,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 672
+        x: 671.0826
         y: 772
         width: 160
         height: 30
@@ -2107,7 +2107,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 672
-        y: 936
+        y: 934.9691
         width: 160
         height: 30
     - id: 24
@@ -2133,10 +2133,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: 'Congratulations on the second choice by the way! A bit more meaningful
-          but that''s for you to find out later.
-
-'
+        value: "Congratulations on the second choice by the way! Still meaningless,
+          but now with a bit more meat on its bones. \n"
         type: 0
         typeString: 
       - title: Sequence
@@ -2291,7 +2289,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 672
+        x: 672.91736
         y: 1080
         width: 160
         height: 30
@@ -2405,8 +2403,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 852
-        y: 1080
+        x: 853.83484
+        y: 1080.9175
         width: 160
         height: 30
     - id: 29
@@ -2467,8 +2465,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 672
-        y: 1130
+        x: 673.83484
+        y: 1129.0825
         width: 160
         height: 30
     - id: 30
@@ -2741,7 +2739,7 @@ MonoBehaviour:
         type: 5
         typeString: CustomFieldType_Actor
       - title: Menu Text
-        value: Thank them.
+        value: Hug them.
         type: 0
         typeString: 
       - title: Dialogue Text
@@ -2856,7 +2854,7 @@ MonoBehaviour:
         type: 5
         typeString: CustomFieldType_Actor
       - title: Menu Text
-        value: Explode.
+        value: Throw a tantrum.
         type: 0
         typeString: 
       - title: Dialogue Text
@@ -2952,8 +2950,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 158.9036, y: 1067.0898}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 282.41458, y: 1015.78845}
+    canvasZoom: 1.0899999
   syncInfo:
     syncActors: 0
     syncItems: 0
